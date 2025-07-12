@@ -1,31 +1,53 @@
 
 ## Hi There 👋
 
-I am a Network Engineer by profession with a passion for all things relating to Software Development and Engineering.
+I am a Network Engineer by profession with a passion for all things relating to Software Development, Engineering, and Automation.
 
 ### Tools & Editors
-<code><img height="50" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667"></code><code><img height="50" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></code>
+<code><img height="50" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667"></code><code><img height="50" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></code><code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"></code>
 
 ### Programming
 #### Languages
-<code><img height="100" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"></code><code><img height="75" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"></code><code><img height="50" src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667"></code><code><img height="50" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"></code><code><img height="50" src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667"></code>
-#### Frameworks
-<code><img height="75" src="https://camo.githubusercontent.com/a499f82c059b2fd21339974a9a7dfe2b72180faa14c9d420c02806c2e9b4362e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646a616e676f70726f6a6563742e737667"></code><code><img height="75" src="https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667"></code><code><img height="75" src=https://camo.githubusercontent.com/9c5e7333f1c4ac09c07988ceda17508df89b6830fe0b8fb416c4be19c5841578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7675652e737667></code>
+<code><img height="100" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"></code><code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code><code><img height="75" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"></code><code><img height="50" src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667"></code><code><img height="50" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"></code><code><img height="50" src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667"></code>
 
+#### Frameworks & Tools
+<code><img height="75" src="https://camo.githubusercontent.com/a499f82c059b2fd21339974a9a7dfe2b72180faa14c9d420c02806c2e9b4362e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646a616e676f70726f6a6563742e737667"></code><code><img height="75" src="https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667"></code><code><img height="75" src="https://camo.githubusercontent.com/9c5e7333f1c4ac09c07988ceda17508df89b6830fe0b8fb416c4be19c5841578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7675652e737667"></code>
+
+#### DevOps & Automation
+<code><img height="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"></code><code><img height="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code><code><img height="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code><code><img height="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"></code>
 
 ### Areas of interest
-* Internet of Things (IOT)
+* **Automation & Infrastructure**
+	* Ansible Automation
+	* SemaphoreUI for Ansible orchestration
+	* Infrastructure as Code (IaC)
+	* CI/CD Pipelines
+* **Cloud & DevOps**
+	* Container orchestration
+	* Microservices architecture
+	* Monitoring & Observability
+* **Programming & Development**
+	* Go development
+	* Web Applications
+	* API development
+* **Networking & IoT**
+	* Network automation
+	* Internet of Things (IoT)
 	* LoRa & LoRaWAN
-	* Microcontrollers
-	* Prototyping with Arduino
-* Web Applications
-* Networking
+	* Microcontrollers & Arduino prototyping
 
+### What I'm currently working on
+🔨 Building automation solutions with **Ansible** and **Go**  
+🚀 Exploring **SemaphoreUI** for better workflow management  
+📡 Developing network automation tools  
+🌐 Contributing to open-source projects
 
 ![MrTwister96's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTwister96&show_icons=true&theme=github_dark)
-
 
 ### Reach me at:
 
 [<img height="30" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667">](https://www.linkedin.com/in/schalkolivier/)
+
+---
+*"Automation is not about replacing humans, but about freeing them to do more creative and strategic work"*
 
